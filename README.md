@@ -1,8 +1,8 @@
 # Budget-Analysis
 
-**Note:** Currently still in Beta Mode. Working on finailizing finishing touches and creating report. 
+**Note:** Currently still in Beta Mode. Working on finailizing finishing touches and creating report.
 
-Here are screen shots of my Budget Tracking Dashboard...
+Here are screen shots of my Budget Tracking Dashboard. The dynamic dashboard is functional. 
 
 
 ## Monthly Dashboard
