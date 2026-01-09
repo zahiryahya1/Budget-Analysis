@@ -1,14 +1,14 @@
-# Budget-Analysis
+# Financial Budget-Analysis
 
-**Note:** Currently still in Beta Mode. Working on finailizing finishing touches and creating report. 
+**Note:** Working on finailizing finishing touches and writting a report. 
 
-Here are screen shots of my Budget Tracking Dashboard...
+Below are are screen shots of my Budget Tracking Dashboards...
 
 
-## Monthly Dashboard
+## Power Bi Dashboard
+![alt text](/assets/images/power_bi_draft.png)
+
+
+## Excel Monthly Dashboard
 ![alt text](/assets/images/monthly_draft.png)
-
-
-## Yearly Dashboard
-![alt text](/assets/images/yearly_draft.png)
 
